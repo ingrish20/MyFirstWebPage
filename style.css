@@ -3,11 +3,18 @@ h1 {
     color: lightblue;
     letter-spacing: 15px;
     text-align: center;
+    text-shadow: -2px 2px 5px;
 }
 
 p {
     color: lightpink;
     font-size: 24px;
+    letter-spacing: 3px;
+    text-shadow: 2px -2px 5px;
+}
+
+ul {
+     letter-spacing: 2px;
 }
 
 
