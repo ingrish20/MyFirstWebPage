@@ -1,12 +1,15 @@
 h1 {
     font-weight: bold;
-    color: limegreen;
+    color: lightblue;
+    letter-spacing: 15px;
+    text-align: center;
 }
 
 p {
-    color: blue;
+    color: lightpink;
     font-size: 24px;
 }
+
 
 
 
